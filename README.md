@@ -1,1 +1,2 @@
 # PowerBI_Dashboard_Project
+This Power BI dashboard is built to help analyze and visualize business data in a clear and interactive way. It includes key metrics, trends, and insights that make it easier to understand performance at a glance. Users can filter data dynamically, explore detailed visualizations, and track important indicators to support informed decision-making. The dashboard is designed to be simple, intuitive, and useful for anyone looking to turn raw data into actionable insights.
